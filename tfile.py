@@ -7,3 +7,4 @@ parent_parent_path = pathlib.Path(__file__).parent.parent.resolve()
 
 print("Path: ", path)
 print("Parent directory path: ", parent_path)
+print("Parent parent dir path:", parent_parent_path)
